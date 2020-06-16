@@ -1,0 +1,4 @@
+baseURL = "http://george.entenman.name/"
+languageCode = "en-us"
+title = "george.entenman.name"
+theme = "hugonews"
